@@ -1,0 +1,4 @@
+## ingnore files that extension 
+*.pdf
+.fasta
+.sam
