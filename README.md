@@ -1,2 +1,8 @@
-# git_class
-introduction to git and GitHub
+# introduction to git and GitHub
+
+This is a repository to introduce the basics of git and GitHub
+1. branchea
+2. cloning
+3. push
+4. pull
+5. 
